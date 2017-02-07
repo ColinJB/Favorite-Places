@@ -6,7 +6,7 @@
 
 ## Description
 
-_This webpage was created to convey the personal opinions of Colin Bloom, concerning the skill and standing of teams and players within the NBA. _
+_This webpage was created to convey the personal opinions of Colin Bloom, concerning the skill and standing of teams and players within the NBA._
 
 ## Setup/Installation Requirements
 
